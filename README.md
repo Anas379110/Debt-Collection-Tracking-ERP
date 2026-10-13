@@ -1,21 +1,20 @@
-# ERP متابعة الديون والتحصيل المتدرج
-**Debt Collection & Staged Recovery ERP** · التصنيف: منصة تجارية
+# ERP Debt Tracking and Staged Recovery
+**Debt Collection & Staged Recovery ERP** · Category: Commercial Platform
 
-> وثيقة تعريفية بالمشروع (المواصفات والتقنيات) — لا تتضمن الكود المصدري.
-> Project overview document — source code is not included.
+> Project overview document (specifications and technologies) — does not include source code.
 
-## نبذة عن المشروع
-نظام ERP لمتابعة الديون والتحصيل المتدرج: تنبيهات وآجال وخطط سداد وربط بالزبائن والمندوبين — نقطة ألم حقيقية في الشركات الصغيرة.
+## Project overview
+An ERP system for debt tracking and staged collection: alerts, due dates, payment plans, and linking to customers and agents — a real pain point in small companies.
 
-## أبرز النقاط
-- تحصيل متدرج مع تنبيهات تلقائية بالآجال
-- خطط سداد وتتبع الأقساط
-- ربط بالزبائن والمندوبين وتقارير أعمار الديون
+## Highlights
+- Staged collection with automatic due-date alerts
+- Payment plans and installment tracking
+- Integration with customers and agents and debt aging reports
 
-## الدور
-مطوّر منصات أعمال: تحليل المتطلبات وبناء النظام ولوحة الإدارة وقاعدة البيانات والتقارير.
+## Role
+Business platforms developer: requirements analysis and building the system, admin panel, database, and reports.
 
-## التقنيات المستخدمة
+## Technologies used
 ASP.NET Core, SQL Server, Hangfire, SignalR, React, Docker
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).
